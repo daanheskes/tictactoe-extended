@@ -4,3 +4,6 @@ Some Reddit user then commented:
 > Now do it for an NxN board and determine if there’s any winners
 
 I took it as a challenge and this is the result.
+
+### Try it out!
+[tictactoe-extended.netlify.app](https://tictactoe-extended.netlify.app/)
